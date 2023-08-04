@@ -1,0 +1,2 @@
+#!/bib/bash
+shell permissions
